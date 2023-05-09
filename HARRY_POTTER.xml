@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon version="1.0"
-      xmlns="http:www.w3.org200501pronunciation-lexicon"
-      xmlns:xsi="http:www.w3.org2001XMLSchema-instance"
-      xsi:schemaLocation="http:www.w3.org200501pronunciation-lexicon
-        http:www.w3.orgTR2007CR-pronunciation-lexicon-20071212pls.xsd"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="id-ID">
-
+	  
 <lexeme><grapheme>Harry</grapheme><phoneme>ˈhæri</phoneme></lexeme>
 <lexeme><grapheme>Potter</grapheme><phoneme>ˈpɒtər</phoneme></lexeme>
 <lexeme><grapheme>Ron</grapheme><phoneme>rɒn</phoneme></lexeme>
@@ -110,7 +110,7 @@
 <lexeme><grapheme>Alley</grapheme><phoneme>ˈæli</phoneme></lexeme>
 <lexeme><grapheme>Privet</grapheme><phoneme>ˈprɪvɪt</phoneme></lexeme>
 <lexeme><grapheme>Drive</grapheme><phoneme>draɪv</phoneme></lexeme>
-
+<lexeme><grapheme>Sir</grapheme><phoneme>sɜːr</phoneme></lexeme>
 
 
 </lexicon>
