@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="id-ID">
+    <lexeme>
+        <grapheme>Mr </grapheme>
+        <phoneme>ˈmɪstər </phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Midjourney</grapheme>
+        <phoneme>mɪdˈdʒɜːrni</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme> Benigni </grapheme>
+        <phoneme> bɛˈnaːnja</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>seed</grapheme>
+        <phoneme>siːd</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>describe</grapheme>
+        <phoneme>dɪˈskraɪb</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>imagine</grapheme>
+        <phoneme>ɪˈmædʒɪn</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>style</grapheme>
+        <phoneme>staɪl</phoneme>
+    </lexeme>
+	
+    <lexeme>
+        <grapheme>😀</grapheme>
+        <alias>emoji ketawa senang</alias>
+    </lexeme>
+</lexicon>
